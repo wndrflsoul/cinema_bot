@@ -1,1 +1,1 @@
-№ Telegram bot for a selection of movies or TV series
+# Telegram bot for a selection of movies or TV series
